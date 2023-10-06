@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample ApplicationV3</string>
+
+    <string-array name="printer_array">
+
+        <item id="1">2 inch Printer</item>
+
+        <item id="2">3 inch Printer</item>
+    </string-array>
+</resources>
